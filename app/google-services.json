@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402589330122",
+    "project_id": "tecsup-movile-djfd",
+    "storage_bucket": "tecsup-movile-djfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402589330122:android:2a5ae0097097cf29e22233",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionsensores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402589330122-tmcd0dddat52rh2qlk898jn8qkllhn63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_VoHIWrvXHg4h85rJ3EHaNE97Gmx3ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402589330122-tmcd0dddat52rh2qlk898jn8qkllhn63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
